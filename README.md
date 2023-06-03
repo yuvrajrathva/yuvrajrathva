@@ -8,7 +8,22 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
+
+<div id="user-content-toc">
+  <ul>
+    <div style="display: flex; flex-direction: row;"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><h2 style="display: inline-block">About Me 👨‍🎓</h2></div>
+  </ul>
+</div>
+<picture> <img align="right" src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/23ae39e7d555d0dc908244db8846032fb5c5390d/assets/mdImages/programming.svg" width = 250px></picture>
+
+<br>
+
+- A passionate Front-end developer wants to become a full-stack 
+- Currently pursuing my Bachelors in Computer Science and Engineering from <a href="https://iitj.ac.in/">IIT Jodhpur</a>
+- LinkedIn Profile [link](https://www.linkedin.com/in/yuvraj-rathva/)
+- Playing Cricket during spare time
+- I’m currently open for an Intern, this is [my resume](https://www.linkedin.com/in/yuvraj-rathva/overlay/1635528138414/single-media-viewer/?profileId=ACoAADjH2csBtdYMnxgYE_DEB8mHoEqXKCiUh5k)
+
 <br/>
 <br/>
 
@@ -29,27 +44,56 @@
 
 
 <!-- statistics -->
-<h2>My Github Stats:</h2>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+<h2>My Github Stats 👀</h2>
 <p align="center">
   <br>
-  <img align="center" alt="Yuvraj's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajrathva&layout=compact&langs_count=9&theme=transparent&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
-  <br/>
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvrajrathva&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="yuvrajrathva" />
+  <table align="center">
+  <tr>
+    <td width="40%" align="center">
+      <img align="center" alt="Yuvraj's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajrathva&layout=compact&langs_count=9&theme=transparent&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+    </td>
+    <td width="60%" align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvrajrathva&show_icons=true&theme=transparent&hide_border=FCFCFC&ring=9CEB18&include_all_commits=true&count_private=true" alt="yuvrajrathva" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yuvrajrathva&theme=transparent&border_radius=10&border=FCFCFC&ring=9CEB18" alt="yuvrajrathva"/>
+    </td>
+  </tr>
+</table>
+
   <br>
-  <br>
-  <img align="center"  
-  src="https://github-readme-streak-stats.herokuapp.com?user=yuvrajrathva&theme=transparent&border_radius=10&border=FCFCFC&ring=9CEB18"
-  alt="yuvrajrathva"/>
-  <br>
-  <!-- <img align="center"  
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkori&theme=transparent&layout=default"
-  alt="rohitkori"/>
-  <br> -->
+  
+  
+  <!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=yuvrajrathva&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
 </p>
-<br>
+<br/>
+
+<!-- Connect with me -->
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/yuvrajrathva/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/yuvrajrathva20" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://discordapp.com/users/911974844432793630" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
+</div>
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=yuvrajrathva&icon=3&color=6)](https://visitcount.itsvg.in)
+  
 </div>
 <!--
 **yuvrajrathva/yuvrajrathva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
