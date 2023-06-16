@@ -18,7 +18,7 @@
 
 <br>
 
-- A passionate Front-end developer wants to become a full-stack 
+- A passionate Front-end developer (not a designer) wants to become a full-stack 
 - Currently pursuing my Bachelors in Computer Science and Engineering from <a href="https://iitj.ac.in/">IIT Jodhpur</a>
 - LinkedIn Profile [link](https://www.linkedin.com/in/yuvraj-rathva/)
 - Playing Cricket during spare time
