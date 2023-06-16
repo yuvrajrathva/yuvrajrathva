@@ -18,10 +18,10 @@
 
 <br>
 
-- A passionate Front-end developer (not a designer) wants to become a full-stack 
-- Currently pursuing my Bachelors in Computer Science and Engineering from <a href="https://iitj.ac.in/">IIT Jodhpur</a>
-- LinkedIn Profile [link](https://www.linkedin.com/in/yuvraj-rathva/)
-- Playing Cricket during spare time
+- A passionate front-end developer (not a designer) wants to become a full-stack 
+- Currently pursuing my bachelors in Computer Science and Engineering from <a href="https://iitj.ac.in/">IIT Jodhpur</a> 🏫
+- LinkedIn profile [link](https://www.linkedin.com/in/yuvraj-rathva/) 
+- Playing cricket during spare time 🏏
 - I’m currently open for an Intern, this is [my resume](https://www.linkedin.com/in/yuvraj-rathva/overlay/1635528138414/single-media-viewer/?profileId=ACoAADjH2csBtdYMnxgYE_DEB8mHoEqXKCiUh5k)
 
 <br/>
