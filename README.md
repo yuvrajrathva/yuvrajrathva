@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Rathva</h1>
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<br><br>
 
 <div id="user-content-toc">
   <ul>
     <div style="display: flex; flex-direction: row;"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><h2 style="display: inline-block">About Me 👨‍🎓</h2></div>
   </ul>
 </div>
-<picture> <img align="right" src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/23ae39e7d555d0dc908244db8846032fb5c5390d/assets/mdImages/programming.svg" width = 250px></picture>
+<picture id="about"> <img align="right" src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/23ae39e7d555d0dc908244db8846032fb5c5390d/assets/mdImages/programming.svg" width = 250px></picture>
 
 <br>
 
@@ -109,3 +110,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+  @media (max-width: 600px) {
+    #about {
+      display: none;
+    }
+  }
+</style>
