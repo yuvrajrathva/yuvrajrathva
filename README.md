@@ -2,28 +2,28 @@
 <!--horizontal divider(gradiant)-->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 <!--- snake -->
-<div align="center">
+<!-- <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> -->
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-<br><br>
+<!-- <br><br> -->
 
 <div id="user-content-toc">
   <ul>
     <div style="display: flex; flex-direction: row;"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><h2 style="display: inline-block">About Me 👨‍🎓</h2></div>
   </ul>
 </div>
-<picture id="about"> <img align="right" src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/23ae39e7d555d0dc908244db8846032fb5c5390d/assets/mdImages/programming.svg" width = 250px></picture>
+<!-- <picture id="about"> <img align="right" src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/23ae39e7d555d0dc908244db8846032fb5c5390d/assets/mdImages/programming.svg" width = 250px></picture> -->
 
-<br>
 
-- A passionate front-end developer (not a designer) wants to become a full-stack 
-- Currently pursuing my bachelors in Computer Science and Engineering from <a href="https://iitj.ac.in/">IIT Jodhpur</a> 🏫
-- LinkedIn profile [link](https://www.linkedin.com/in/yuvraj-rathva/) 
-- Playing cricket during spare time 🏏
-- I’m currently open for an Intern, this is [my resume](https://www.linkedin.com/in/yuvraj-rathva/overlay/1635528138414/single-media-viewer/?profileId=ACoAADjH2csBtdYMnxgYE_DEB8mHoEqXKCiUh5k)
+I m Full-stack developer </br>
+Currently pursuing my bachelors in Computer Science and Engineering from <a href="https://iitj.ac.in/">IIT Jodhpur</a> 🏫 </br>
+Connect with me on LinkedIn [link](https://www.linkedin.com/in/yuvraj-rathva/)  </br>
+Playing cricket during spare time 🏏 or may be with HipHop 🎧 </br>
+Sometimes I write blogs for my own revision [Medium](https://yuvrajrathva.medium.com/) </br>
+I’m currently open for an Intern, this is [my resume](https://drive.google.com/file/d/18FoYoHkGNXkn5ZPm_uJrQ87Il7ZxdPlx/view?usp=drivesdk) </br>
 
 <br/>
 <br/>
