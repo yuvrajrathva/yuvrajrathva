@@ -18,7 +18,7 @@
 <!-- <picture id="about"> <img align="right" src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/23ae39e7d555d0dc908244db8846032fb5c5390d/assets/mdImages/programming.svg" width = 250px></picture> -->
 
 
-I m Full-stack developer </br>
+I'm Full-stack developer </br>
 Currently pursuing my bachelors in Computer Science and Engineering from <a href="https://iitj.ac.in/">IIT Jodhpur</a> 🏫 </br>
 Connect with me on LinkedIn [link](https://www.linkedin.com/in/yuvraj-rathva/)  </br>
 Playing cricket during spare time 🏏 or may be with HipHop 🎧 </br>
