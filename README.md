@@ -12,18 +12,20 @@
 
 <div id="user-content-toc">
   <ul>
-    <div style="display: flex; flex-direction: row;"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><h2 style="display: inline-block">About Me 👨‍🎓</h2></div>
+    <div style="display: flex; flex-direction: row;"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><h1 style="display: inline-block">About Me 👨‍🎓</h1></div>
   </ul>
 </div>
 <!-- <picture id="about"> <img align="right" src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/23ae39e7d555d0dc908244db8846032fb5c5390d/assets/mdImages/programming.svg" width = 250px></picture> -->
 
-
-👨‍💻 I'm Full-stack developer </br>
-🏫 Currently pursuing my bachelors in Computer Science and Engineering from <a href="https://iitj.ac.in/">IIT Jodhpur</a> </br>
-🟦 Connect with me on LinkedIn [link](https://www.linkedin.com/in/yuvraj-rathva/)  </br>
-💤 Playing cricket during spare time 🏏 or may be with HipHop 🎧 </br>
-📝 Sometimes I write blogs for my own revision [Medium](https://yuvrajrathva.medium.com/) </br>
-✨ I’m currently open for an Intern, this is [my resume](https://drive.google.com/file/d/18FoYoHkGNXkn5ZPm_uJrQ87Il7ZxdPlx/view?usp=drivesdk) </br>
+Hey there 👋! I'm Yuvraj, a passionate Full-stack Developer 👨‍💻, currently pursuing my bachelor's degree in Computer Science and Engineering at <a href="https://iitj.ac.in/">IIT Jodhpur</a> 🏫. 
+I am proficient in building frontend using React JS and have extensive experience working on large-scale projects. I can build backend and APIs using Django and Golang. I have used Docker in many projects and used AWS for project deployment. I can also work in smart contract development using solidity, AI tool like Langchain with python or Javascript and some DevOps technologies.
+</br>
+Currently I am working in Go projects and learning networking.
+</br>
+Connect with me on LinkedIn 🟦 [link](https://www.linkedin.com/in/yuvraj-rathva/)  </br>
+Playing cricket during spare time 🏏 or may be listening HipHop 🎧
+</br>
+✨ I’m currently open for an Internship opportunities, this is [my resume](https://drive.google.com/file/d/18FoYoHkGNXkn5ZPm_uJrQ87Il7ZxdPlx/view?usp=drivesdk) </br>
 
 <br/>
 <br/>
@@ -31,7 +33,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul>
-    <div style="display: flex; flex-direction: row;"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40"><h2 style="display: inline-block">Technologies that I have worked with EVER 👨🏻‍💻</h2></div>
+    <div style="display: flex; flex-direction: row;"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40"><h1 style="display: inline-block">Tech Stack 👨🏻‍💻</h1></div>
   </ul>
 </div>
 </br>
@@ -46,7 +48,7 @@
 
 <!-- statistics -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-<h2>My Github Stats 👀</h2>
+<h1>My Github Stats 👀</h1>
 <p align="center">
   <br>
   <table align="center">
