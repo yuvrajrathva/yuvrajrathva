@@ -17,15 +17,16 @@
 </div>
 <!-- <picture id="about"> <img align="right" src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/23ae39e7d555d0dc908244db8846032fb5c5390d/assets/mdImages/programming.svg" width = 250px></picture> -->
 
-Hey there 👋! I'm Yuvraj, a passionate Full-stack Developer 👨‍💻, currently pursuing my bachelor's degree in Computer Science and Engineering at <a href="https://iitj.ac.in/">IIT Jodhpur</a> 🏫. 
+Hey there! I'm Yuvraj, a Full-stack Developer, currently pursuing my bachelor's degree in Computer Science and Engineering at <a href="https://iitj.ac.in/">IIT Jodhpur</a>. 
 I am proficient in building frontend using React JS and have extensive experience working on large-scale projects. I can build backend and APIs using Django and Golang. I have used Docker in many projects and used AWS for project deployment. I can also work in smart contract development using solidity, AI tool like Langchain with python or Javascript and some DevOps technologies.
+</br>
 </br>
 Currently I am working in Go projects and learning networking.
 </br>
-Connect with me on LinkedIn 🟦 [link](https://www.linkedin.com/in/yuvraj-rathva/)  </br>
-Playing cricket during spare time 🏏 or may be listening HipHop 🎧
 </br>
-✨ I’m currently open for an Internship opportunities, this is [my resume](https://drive.google.com/file/d/18FoYoHkGNXkn5ZPm_uJrQ87Il7ZxdPlx/view?usp=drivesdk) </br>
+Connect with me on LinkedIn 🟦 [link](https://www.linkedin.com/in/yuvraj-rathva/) 
+</br>
+I’m currently open for an Internship opportunities ✨, this is [my resume](https://drive.google.com/file/d/18FoYoHkGNXkn5ZPm_uJrQ87Il7ZxdPlx/view?usp=drivesdk) </br>
 
 <br/>
 <br/>
@@ -40,7 +41,7 @@ Playing cricket during spare time 🏏 or may be listening HipHop 🎧
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,cpp,css,discord,django,docker,figma,firebase,github,html,js,nextjs,nodejs,postman,py,react,ts,vue,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=react,mui,js,vite,nextjs,vue,go,django,firebase,cpp,py,docker,aws,vercel,githubactions,mysql,sqlite,solidity,bootstrap,css,tailwind,figma,git,github,postman,vscode,bash,powershell&perline=14" />
   </a>
 </p>
 <br/>
