@@ -17,8 +17,10 @@
 </div>
 <!-- <picture id="about"> <img align="right" src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/23ae39e7d555d0dc908244db8846032fb5c5390d/assets/mdImages/programming.svg" width = 250px></picture> -->
 
-Hey there! I'm Yuvraj, a Full-stack Developer, currently pursuing my bachelor's degree in Computer Science and Engineering at <a href="https://iitj.ac.in/">IIT Jodhpur</a>. 
-I am proficient in building frontend using React JS and have extensive experience working on large-scale projects. I can build backend and APIs using Django and Golang. I have used Docker in many projects and used AWS for project deployment. I can also work in smart contract development using solidity, AI tool like Langchain with python or Javascript and some DevOps technologies.
+Hey there! I'm Yuvraj, a Full-stack Developer, currently pursuing my bachelor's degree in Computer Science and Engineering at <a href="https://iitj.ac.in/">IIT Jodhpur</a>. <br/>
+I am proficient in building frontend using React JS and have extensive experience working on large-scale projects. <br/>
+I can build backend and APIs using Django and Golang. I have used Docker in many projects and used AWS for project deployment. <br/>
+I can also work with DevOps technologies.
 </br>
 </br>
 Currently I am working in Go projects and learning networking.
