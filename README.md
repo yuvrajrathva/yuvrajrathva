@@ -11,9 +11,7 @@
 <!-- <br><br> -->
 
 <div id="user-content-toc">
-  <ul>
-    <div style="display: flex; flex-direction: row;"><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><h1 style="display: inline-block">About Me 👨‍🎓</h1></div>
-  </ul>
+  <h1 style="display: inline-block">About Me 👨‍🎓</h1>
 </div>
 <!-- <picture id="about"> <img align="right" src="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/23ae39e7d555d0dc908244db8846032fb5c5390d/assets/mdImages/programming.svg" width = 250px></picture> -->
 
