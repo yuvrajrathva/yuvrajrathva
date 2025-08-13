@@ -17,15 +17,14 @@
 
 Hey there! I'm Yuvraj, a Software Developer who has a bachelor's degree in Computer Science and Engineering of <a href="https://iitj.ac.in/">IIT Jodhpur</a>. <br/>
 I am proficient in building frontends using ReactJS and have extensive experience working on large-scale projects. <br/>
-I can build backend and APIs using Django, Ruby on Rails and Golang. I have used Docker in many projects and used AWS for project deployment. <br/>
-I can also work with DevOps technologies.
+I can build backend and APIs using Django, Ruby on Rails and Golang. <br/>
+I have used Docker in many projects and used AWS for project deployment. 
 </br>
 </br>
 Currently, I am interested in low-level coding.
 </br>
 </br>
-Connect with me on LinkedIn 🟦 [link](https://www.linkedin.com/in/yuvraj-rathva/) 
-</br>
+Connect with me on [Linkedin](https://www.linkedin.com/in/yuvraj-rathva/) 🟦 </br>
 This is [my resume](https://drive.google.com/file/d/18FoYoHkGNXkn5ZPm_uJrQ87Il7ZxdPlx/view?usp=drivesdk) </br>
 
 <br/>
